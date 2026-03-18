@@ -37,13 +37,17 @@ I'm an aspiring **Business Analyst** with a strong passion for turning raw data 
       ## 📈 GitHub Stats
 
       ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojkumarkavuri20-a11y&show_icons=true&theme=dark)
+   
+      ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manojkumarkavuri20-a11y&theme=dark)
+   
+      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumarkavuri20-a11y&layout=compact&theme=dark)
 
       ---
 
       ## 📫 Let's Connect
 
-      - 💼 [LinkedIn](https://linkedin.com/in/)
-      - - 📧 Email: [your-email@example.com]
+      - 💼 [LinkedIn](https://www.linkedin.com/in/manojkumarkavuri/))
+      - - 📧 Email:[manojkumarkavuri20@gmail.com]
        
         - ---
 
