@@ -16,10 +16,10 @@
 
 I bridge **market research** and **operational execution** — I don't just build dashboards, I find the insight that changes the decision.
 
-- 📈 **30% higher campaign ROI** through A/B testing, audience segmentation and paid media optimisation
-- ⚙️ **20% faster item processing** via a Donation Management System redesign that handled peak surges with zero delays
-- 🎯 **25% inventory accuracy improvement** through spreadsheet-based tracking systems
-- 🤖 Built **no-code AI automation workflows** using n8n and Generative AI tools
+- 📈 Practised campaign analytics (A/B testing, audience segmentation, paid media optimisation) during a digital marketing internship, and built a self-initiated Power BI dashboard project to demonstrate ROI/CAC analysis using a synthetic dataset
+- ⚙️ Designed a donation management process redesign (self-initiated portfolio project) modelling significant reductions in processing and dispatch time
+- 🎯 Built inventory accuracy and data quality tracking frameworks using Excel and SQL, combining hands-on retail experience with self-initiated portfolio projects using synthetic data
+- 🤖 Built no-code AI automation workflows using n8n and Generative AI tools
 
 ---
 
@@ -38,43 +38,45 @@ I bridge **market research** and **operational execution** — I don't just buil
 
 ## 📂 Featured Projects
 
+All projects below are self-initiated portfolio work built to practise skills for Business Analyst, Operations Analyst, and Market Analyst roles. Where a project uses a synthetic dataset, this is stated explicitly — no employer, client or customer data is used in any of them.
+
 ### 🛒 [Supply Chain Analytics](https://github.com/manojkumarkavuri20-a11y/supply-chain-analytics)
-End-to-end SQL analytics system tracking supplier lead times, delivery performance, stockout risk, and inventory health — built from **27+ months of retail stock management experience** at The Range.
-- 4 production SQL modules: lead time analysis, supplier performance, demand forecasting, stockout risk
-- Identifies suppliers at risk and products approaching stockout before they happen
+End-to-end SQL analytics system tracking supplier lead times, delivery performance, stockout risk, and inventory health — built with a synthetic dataset, modelled on supply chain concepts relevant to 27+ months of hands-on stock management experience at The Range.
+- 4 SQL modules: lead time analysis, supplier performance, demand forecasting, stockout risk
+- Illustrates how suppliers at risk and products approaching stockout could be flagged before they happen
 
 `SQL` `PostgreSQL` `Supply Chain` `KPI Analytics`
 
 ### 🏪 [Retail Operations Intelligence](https://github.com/manojkumarkavuri20-a11y/retail-operations-intelligence)
-SQL-powered system for inventory accuracy tracking, stock turnover analysis, and shrinkage detection — directly applied to operations challenges encountered at The Range.
-- Includes sample inventory data, data dictionary, and 4 analytical SQL scripts
+SQL-powered system for inventory accuracy tracking, stock turnover analysis, and shrinkage detection — built with a synthetic dataset, modelled on retail operations concepts I have practised during 27+ months at The Range.
+- Includes synthetic sample inventory data, data dictionary, and 4 analytical SQL scripts
 - Covers reorder alerts, shrinkage by category, and staff productivity KPIs
 
 `SQL` `Retail Analytics` `Inventory Management` `Operations`
 
 ### 📊 [Power BI Marketing KPI Dashboard](https://github.com/manojkumarkavuri20-a11y/powerbi-marketing-kpi-dashboard)
-Campaign performance analytics tracking CTR, CPC, CAC, ROAS across channels — modelled on real digital marketing work at BorderlessHR.
+Campaign performance analytics tracking CTR, CPC, CAC, ROAS across channels — built with a synthetic dataset, modelled on digital marketing analytics workflows I practised during my internship at BorderlessHR Inc.
 - SQL data layer with Power BI dashboard layer for executive-level reporting
 - A/B test result analysis and audience segmentation built-in
 
 `Power BI` `SQL` `Marketing Analytics` `KPI Dashboard`
 
-### 🏠 [UK Retail Footfall Analysis](https://github.com/manojkumarkavuri20-a11y/uk-retail-footfall-analysis)
-End-to-end BA project using 109 months of real ONS Retail Sales Index data (2017–2026).
+### 🏠 [UK Retail Sales & Category Performance Analysis](https://github.com/manojkumarkavuri20-a11y/uk-retail-footfall-analysis)
+End-to-end BA project using 109 months of public ONS Retail Sales Index data (2017–2026).
 - 6 BA artefacts: Problem Statement, Requirements Doc (MoSCoW), Process Flows, Interactive Dashboard, Findings Report, Stakeholder Presentation
-- **Key finding:** Online retail up +40% vs 2019; household goods down 9.7%
+- **Key finding:** Online retail up +18.1% vs the 2019 annual average; household goods down 9.7%
 
 `Business Analysis` `Power BI` `Requirements Engineering` `ONS Data`
 
 ### 🗄️ [SQL Portfolio](https://github.com/manojkumarkavuri20-a11y/sql-portfolio)
-Curated collection of production-style SQL queries: sales performance, RFM customer segmentation, KPI dashboards, and HackerRank advanced problems.
+Curated collection of practice-style SQL queries: sales performance, RFM customer segmentation, KPI dashboards, and HackerRank advanced problems, using sample datasets.
 
 `PostgreSQL` `MySQL` `CTEs` `Window Functions` `Data Storytelling`
 
-### 📦 [Donation Management System](https://github.com/manojkumarkavuri20-a11y/donation-management-system)
-Process improvement framework built during Operations Support Analyst internship at Care4Calais.
-- Cut item processing time by **20%** and achieved **100% on-time delivery** during peak surges
-- Designed end-to-end system for 500+ donated items across multiple distribution centres
+### 📦 [Donation Management System Design](https://github.com/manojkumarkavuri20-a11y/donation-management-system)
+Self-initiated process redesign, modelled on a grassroots donation collection point of the type I supported during my internship at Care4Calais. Not a deployed system — figures are modelled estimates from the design, not measured results.
+- Modelled reductions in donation processing, dispatch preparation and item retrieval time by removing duplicated handling steps
+- Designed intake, storage, volunteer coordination, dispatch, and reporting processes for a small volunteer-run operation
 
 `Operations Management` `Process Design` `Inventory Control` `Excel`
 
@@ -82,12 +84,12 @@ Process improvement framework built during Operations Support Analyst internship
 
 ## 💼 Experience Highlights
 
-| Role | Organisation | Impact |
+| Role | Organisation | Highlights |
 |---|---|---|
-| Digital Marketing & Market Analyst Intern | BorderlessHR Inc. (InterviewHQ) | 30% ROI up, 20% email CTR up, 12+ competitor intelligence reports |
-| Operations Support Analyst | Care4Calais | 20% faster processing, 500+ items, 0 delivery delays |
-| Digital Marketing Assistant | Harmonia Productions | 25% engagement up, 40% reach up, 30% follower growth |
-| Stock & Operations (27+ months) | The Range, Bracknell | Inventory accuracy, stockroom optimisation, supplier coordination |
+| Digital Marketing & Market Analyst Intern | BorderlessHR Inc. (InterviewHQ) | A/B testing support, audience segmentation, weekly Power BI KPI dashboards, 12+ competitor intelligence reports |
+| Operations Analyst (Intern) | Care4Calais | Spreadsheet-based inventory and records tracking, stock/supplies monitoring, volunteer scheduling support, supplier liaison |
+| Digital Marketing Assistant | Harmonia Productions | Facebook ad campaigns with audience segmentation, content calendar management, campaign metrics analysis |
+| Retail Operations Assistant (27+ months, part-time) | The Range, Bracknell | 100+ daily customer interactions, shift leadership (team of 4), Employee of the Month (Mar 2026) |
 
 ---
 
